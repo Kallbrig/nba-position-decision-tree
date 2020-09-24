@@ -1,2 +1,2 @@
 # nba-position-decision-tree
-Using Decision Trees to predict what position a NBA player plays using thier stats
+Using Decision Trees to predict what position a NBA player plays using their stats
